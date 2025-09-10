@@ -12,3 +12,5 @@ Function
 4.Repeat Song
 
 5.The Layout Design of Music Player
+
+![image alt](https://github.com/Anmolkedia/codealpha_task2/blob/12e477880b444bef53a0dcb8d2bab1d9c7d65298/Music-Player-main/sample%20output.png)
